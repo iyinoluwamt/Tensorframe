@@ -1,0 +1,6 @@
+module Pods_Tensorframe {
+  umbrella header "Pods-Tensorframe-umbrella.h"
+
+  export *
+  module * { export * }
+}

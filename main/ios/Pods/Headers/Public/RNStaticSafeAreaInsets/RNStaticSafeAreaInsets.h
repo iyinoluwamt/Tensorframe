@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-static-safe-area-insets/ios/RNStaticSafeAreaInsets.h
